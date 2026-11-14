@@ -1,0 +1,60 @@
+{
+  "taxonomy": {
+    "version": "v1",
+    "categories": [
+      "office",
+      "translation",
+      "inspection"
+    ]
+  },
+  "counts": [
+    {
+      "org": "a",
+      "week": 1,
+      "category": "office",
+      "count": 8,
+      "observed": true,
+      "available": true
+    },
+    {
+      "org": "a",
+      "week": 1,
+      "category": "translation",
+      "count": 2,
+      "observed": true,
+      "available": true
+    },
+    {
+      "org": "a",
+      "week": 1,
+      "category": "inspection",
+      "count": 0,
+      "observed": true,
+      "available": true
+    },
+    {
+      "org": "a",
+      "week": 2,
+      "category": "office",
+      "count": 16,
+      "observed": true,
+      "available": true
+    },
+    {
+      "org": "a",
+      "week": 2,
+      "category": "translation",
+      "count": 4,
+      "observed": true,
+      "available": true
+    },
+    {
+      "org": "a",
+      "week": 2,
+      "category": "inspection",
+      "count": 0,
+      "observed": true,
+      "available": true
+    }
+  ]
+}
